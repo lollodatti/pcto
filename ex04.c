@@ -8,7 +8,7 @@ if(a >= 18)
 {
     printf("a é maggiore di 18\n");
 }
-else(a < 18)
+else
 {
     printf("a é minore di 18");    
 }
